@@ -3,3 +3,10 @@ nltk
 pandas
 numpy
 matplotlib.pyplot 
+SentimentIntensityAnalyzer
+movie_reviews
+TfidfVectorizer
+LogisticRegression
+Pipeline
+classification_report
+accuracy_score
